@@ -1,0 +1,50 @@
+/***********TAG SELECTORS************/
+
+body {
+    background-color: rgba(174, 241, 250, 0.486);
+}
+
+hr {
+    background-color: background-color;
+    border-style: dotted none none none;
+    border-color: rgb(149, 225, 228);
+    border-width: 3px;
+    height: 0px;
+    width: 15%;
+}
+
+h1,
+h3 {
+    color: rgb(0, 197, 197);
+}
+
+
+img:hover {
+    border-style: solid;
+    border-color: rgb(149, 216, 228);
+    border-radius: 30px;
+}
+
+
+
+/***********CLASS SELECTORS************/
+
+.profilePic {
+    border-radius: 40px;
+}
+
+.owl {
+    border-radius: 20px;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+
+
+/***********ID SELECTORS************/
+#heading {
+    color: rgb(44, 182, 182);
+
+}
