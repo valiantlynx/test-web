@@ -24,7 +24,9 @@ img:hover {
     border-color: rgb(149, 216, 228);
     border-radius: 30px;
 }
-
+table {
+    display: inline block;
+}
 
 
 /***********CLASS SELECTORS************/
